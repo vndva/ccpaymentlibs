@@ -110,7 +110,7 @@ publish({
   setAppSecret: setAppSecret,
   
   createRequest: createRequest,
-  getCoinBalance: getCoinBalance,
+  getBalanceById: getBalanceById,
   getAllSupportedCurrencies: getAllSupportedCurrencies
 });
 
